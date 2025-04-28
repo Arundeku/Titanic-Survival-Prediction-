@@ -17,6 +17,7 @@ We performed:
 - `gender_submission.csv` — Example submission file
 - `Titanic_Survival_Prediction_Report.docx` — Detailed final project report
 - `submission.csv` — Our model's predictions for the test set
+-  `Titanic Survival Prediction.ipynb` — model making for gaining accuracy of test
 
 ## Project Structure
 - **EDA**: Understanding the data and survival patterns.
